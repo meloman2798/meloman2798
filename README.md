@@ -26,7 +26,7 @@ I am a Laravel PHP Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-In short: Backend Developer + DevOps
+In short: Backend Developer
 ---
 ### 📊 GitHub Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meloman2798&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
